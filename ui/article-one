@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>
+           ArticleOne
+        </title>
+    </head>
+    <body>
+        <h1>
+            I dont know what im doing
+        </h1>
+        <hr/>
+        <div> 
+        Date : 28th
+        </div>
+        <hr/>
+        <div>
+            <p>
+                this is the content for article one
+            </p>
+        </div>
+    </body>
+</html>
