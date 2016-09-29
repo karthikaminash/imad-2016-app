@@ -31,7 +31,9 @@ button.onclick = function() {
               span.innerHTML = counter.toString();
            }
        }
-   };  
+   }; 
+   request.open("GET", "http://karthikaminash.imad.haura-app.imad.io/counter", true);
+   
    };
    
    
