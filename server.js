@@ -58,7 +58,22 @@ var htmlTemplate =
     <body>
     
     </body>
-    
+     <div class="container">
+       
+        <h1>
+           ${heading}
+        </h1>
+        <hr/>
+        <div> 
+        Date : ${date}
+        </div>
+        <hr/>
+        <div>
+           
+               ${content}
+          
+        </div>
+        </div>
 </html>`;
 return htmlTemplate;
 }
