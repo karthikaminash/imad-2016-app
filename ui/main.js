@@ -14,7 +14,7 @@ button.onclick = function() {
            }
        }
    }; 
-   request.open("GET", "http://karthikaminash.imad.hasura-app.imad.io/counter", true);
+   request.open("GET", "http://karthikaminash.imad.hasura-app.io/counter", true);
    request.send(null);
    };
    
