@@ -56,6 +56,7 @@ var htmlTemplate =
        <link href="/ui/style.css" rel="stylesheet" />
     </head>
     <body>
+    <a href='/' >Home</a>
         <div class="container">
        
         <h1>
