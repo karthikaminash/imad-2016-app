@@ -25,8 +25,4 @@ button.onclick = function() {
     span.innerHTML = counter.toString();
     
 };
-console.log('Loaded!');
-var element = document.getElementById("main-text");
-
-element.innerHTML = "Hello";
 
