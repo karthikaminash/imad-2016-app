@@ -14,7 +14,7 @@ var articleOne = {
            
                 this is the content for article one
           
-        </div>" `
+        </div>`
 };
 
 function createTemplate (data) {
