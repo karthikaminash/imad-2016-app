@@ -29,7 +29,7 @@ var articles = {
 },
    "article-three": {
     title: "ArticleThree",
-    heading: "ArticleTwo",
+    heading: "ArticleThree",
     date: "28th",
     content: `  <div>
            
