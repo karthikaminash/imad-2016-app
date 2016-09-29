@@ -4,11 +4,11 @@ var element = document.getElementById("main-text");
 element.innerHTML = "Hello";
 
 var img = document.getElementById("madi");
-var marginLeft = 0;
+var marginLeft = 50;
 function moveRight () {
-    marginLeft = marginLeft + 1;
+    marginLeft = marginLeft + 10;
     img.style.marginLeft = marginLeft + "px" ;
-    marginLeft = 750;
+    
 }
 
 img.onclick = function() {
